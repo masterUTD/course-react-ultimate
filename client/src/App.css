@@ -1,0 +1,23 @@
+html {
+    scroll-behavior: smooth;
+
+}
+
+
+body {
+
+    font-family: 'Open Sans Condensed';
+    padding: 20px 60px;
+
+}
+
+a { /* link tag from react is actually an a tag   */
+    text-decoration: none;
+    color: black;
+
+}
+
+* {
+
+    box-sizing: border-box;
+}
